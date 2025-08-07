@@ -2,7 +2,7 @@
 <h2> </h2>
 <h2>Engineering Projects:</h2>
 
-- [Full-Size Domestic Cooking Appliance with Battery Power Source](https://github.com/PlaceholderURL)
+- [Full-Size Domestic Cooking Appliance with Battery Power Source](https://github.com/tthai134/DomesticCookingAppliance)
 
 
 <h2>Certifications:</h2>
