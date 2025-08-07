@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Tim! <br/><a 
+<h2> </h2>
+<h2>Engineering Projects:</h2>
+
+- [Full-Size Domestic Cooking Appliance with Battery Power Source](https://github.com/PlaceholderURL)
+
+
+<h2>Certifications:</h2>
+
+- [Microsoft Azure AI Fundamentals](https://imgur.com/a/xdkI03F)
+- [Microsoft Azure Fundamentals](https://imgur.com/a/SZqMZMG)
+
 
 <!--
-**tthai134/tthai134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
